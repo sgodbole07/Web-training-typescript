@@ -1,0 +1,16 @@
+{
+  "name": "typescriptassignment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+"scripts": {
+    "hunter": "tsc && node dist/index.js"
+},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "typescript": "^7.0.2"
+  }
+}
